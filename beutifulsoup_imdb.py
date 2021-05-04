@@ -10,8 +10,6 @@ r = requests.get(url)
 soup = BeautifulSoup(r.content, "lxml")
 rows = soup.find_all("tr")
 
-print("ABC")
-
 print("*"*40)
 print("Top Rated Movies")
 print("*"*40)
