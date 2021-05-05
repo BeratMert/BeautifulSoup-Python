@@ -10,9 +10,9 @@ r = requests.get(url)
 soup = BeautifulSoup(r.content, "lxml")
 rows = soup.find_all("tr")
 
-print("*"*40)
-print("Top Rated Movies")
-print("*"*40)
+print("*"*20)
+print("* Top Rated Movies *")
+print("*"*20)
 
 for row in rows:
     titles = row.find_all("td", {"class":"titleColumn"})
