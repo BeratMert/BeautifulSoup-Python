@@ -24,7 +24,7 @@ for row in rows:
         rating = row.strong.text
         
         print(f"{movieNumber}{name} {date}\nIMDB Rating; {rating}")
-        informations.write(movieNumber + "," + name + "," + date + "," + rating + "\n")
+        informations.write(movieNumber + ", " + name + ", " + date + ", " + rating + "\n")
 
     print("-"*50)
 
