@@ -15,7 +15,7 @@ print("* Top Rated Movies *")
 print("*"*20)
 
 for row in rows:
-    titles = row.find_all("td", {"class":"titleColumn"})
+    titles = row.find_all("td", class_="titleColumn")
 
     for title in titles:
         name = title.a.text
