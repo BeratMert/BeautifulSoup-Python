@@ -94,15 +94,15 @@ movieNumber, movieName, date, rating
 93., Vertigo, (1958), 8.3
 94., Requiem for a Dream, (2000), 8.3
 95., Jagten, (2012), 8.3
-96., Singin' in the Rain, (1952), 8.3
-97., North by Northwest, (1959), 8.3
+96., North by Northwest, (1959), 8.3
+97., Singin' in the Rain, (1952), 8.3
 98., Eternal Sunshine of the Spotless Mind, (2004), 8.3
-99., Ladri di biciclette, (1948), 8.3
-100., Idi i smotri, (1985), 8.3
+99., Idi i smotri, (1985), 8.3
+100., Ladri di biciclette, (1948), 8.3
 101., Ikiru, (1952), 8.3
 102., Lawrence of Arabia, (1962), 8.2
-103., The Kid, (1921), 8.2
-104., The Father, (2020), 8.2
+103., The Father, (2020), 8.2
+104., The Kid, (1921), 8.2
 105., Full Metal Jacket, (1987), 8.2
 106., Dangal, (2016), 8.2
 107., A Clockwork Orange, (1971), 8.2
@@ -113,8 +113,8 @@ movieNumber, movieName, date, rating
 112., 1917, (2019), 8.2
 113., Amélie, (2001), 8.2
 114., Jodaeiye Nader az Simin, (2011), 8.2
-115., Snatch, (2000), 8.2
-116., The Apartment, (1960), 8.2
+115., The Apartment, (1960), 8.2
+116., Snatch, (2000), 8.2
 117., Scarface, (1983), 8.2
 118., Incendies, (2010), 8.2
 119., Toy Story 3, (2010), 8.2
@@ -129,8 +129,8 @@ movieNumber, movieName, date, rating
 128., Die Hard, (1988), 8.2
 129., Ran, (1985), 8.2
 130., Monty Python and the Holy Grail, (1975), 8.2
-131., Der Untergang, (2004), 8.2
-132., Green Book, (2018), 8.2
+131., Green Book, (2018), 8.2
+132., Der Untergang, (2004), 8.2
 133., Batman Begins, (2005), 8.2
 134., Some Like It Hot, (1959), 8.2
 135., All About Eve, (1950), 8.2
@@ -165,17 +165,17 @@ movieNumber, movieName, date, rating
 164., Klaus, (2019), 8.1
 165., Blade Runner, (1982), 8.1
 166., Smultronstället, (1957), 8.1
-167., The Bridge on the River Kwai, (1957), 8.1
-168., Babam ve Oglum, (2005), 8.1
+167., Babam ve Oglum, (2005), 8.1
+168., The Bridge on the River Kwai, (1957), 8.1
 169., Trainspotting, (1996), 8.1
 170., Warrior, (2011), 8.1
-171., Jurassic Park, (1993), 8.1
-172., The Truman Show, (1998), 8.1
+171., The Truman Show, (1998), 8.1
+172., Jurassic Park, (1993), 8.1
 173., Fargo, (1996), 8.1
 174., Finding Nemo, (2003), 8.1
 175., Gone with the Wind, (1939), 8.1
-176., Tôkyô monogatari, (1953), 8.1
-177., Salinui chueok, (2003), 8.1
+176., Salinui chueok, (2003), 8.1
+177., Tôkyô monogatari, (1953), 8.1
 178., Kill Bill: Vol. 1, (2003), 8.1
 179., On the Waterfront, (1954), 8.1
 180., Stalker, (1979), 8.1
@@ -187,8 +187,8 @@ movieNumber, movieName, date, rating
 186., Room, (2015), 8.1
 187., The Grand Budapest Hotel, (2014), 8.1
 188., Mary and Max, (2009), 8.1
-189., Before Sunrise, (1995), 8.1
-190., Persona, (1966), 8.1
+189., Persona, (1966), 8.1
+190., Before Sunrise, (1995), 8.1
 191., In the Name of the Father, (1993), 8.1
 192., Mr. Smith Goes to Washington, (1939), 8.1
 193., Prisoners, (2013), 8.1
@@ -198,19 +198,19 @@ movieNumber, movieName, date, rating
 197., Hacksaw Ridge, (2016), 8.1
 198., The Big Lebowski, (1998), 8.1
 199., Barry Lyndon, (1975), 8.1
-200., 12 Years a Slave, (2013), 8.1
-201., Andhadhun, (2018), 8.1
+200., Andhadhun, (2018), 8.1
+201., 12 Years a Slave, (2013), 8.1
 202., Ford v Ferrari, (2019), 8.1
-203., La passion de Jeanne d'Arc, (1928), 8.1
-204., How to Train Your Dragon, (2010), 8.1
+203., How to Train Your Dragon, (2010), 8.1
+204., La passion de Jeanne d'Arc, (1928), 8.1
 205., Mad Max: Fury Road, (2015), 8.1
 206., Le salaire de la peur, (1953), 8.1
 207., Million Dollar Baby, (2004), 8.1
 208., Ben-Hur, (1959), 8.1
 209., Network, (1976), 8.1
-210., Höstsonaten, (1978), 8.1
-211., Dead Poets Society, (1989), 8.1
-212., Stand by Me, (1986), 8.1
+210., Dead Poets Society, (1989), 8.1
+211., Stand by Me, (1986), 8.1
+212., Höstsonaten, (1978), 8.1
 213., Harry Potter and the Deathly Hallows: Part 2, (2011), 8.1
 214., Cool Hand Luke, (1967), 8.1
 215., Les quatre cents coups, (1959), 8.1
@@ -230,22 +230,22 @@ movieNumber, movieName, date, rating
 229., Monsters, Inc., (2001), 8.0
 230., Amores perros, (2000), 8.0
 231., Rocky, (1976), 8.0
-232., Kaze no tani no Naushika, (1984), 8.0
-233., Soul, (2020), 8.0
+232., Ratsasan, (2018), 8.0
+233., Kaze no tani no Naushika, (1984), 8.0
 234., Fa yeung nin wah, (2000), 8.0
-235., Ratsasan, (2018), 8.0
+235., Soul, (2020), 8.0
 236., It Happened One Night, (1934), 8.0
 237., Du rififi chez les hommes, (1955), 8.0
 238., La battaglia di Algeri, (1966), 8.0
 239., Koe no katachi, (2016), 8.0
-240., Before Sunset, (2004), 8.0
-241., Gangs of Wasseypur, (2012), 8.0
+240., Gangs of Wasseypur, (2012), 8.0
+241., Before Sunset, (2004), 8.0
 242., Sunrise: A Song of Two Humans, (1927), 8.0
 243., Fanny och Alexander, (1982), 8.0
 244., The Princess Bride, (1987), 8.0
 245., Trois couleurs: Rouge, (1994), 8.0
 246., Anand, (1971), 8.0
-247., Dom za vesanje, (1988), 8.0
-248., Le notti di Cabiria, (1957), 8.0
-249., Kumonosu-jo, (1957), 8.0
-250., The Man Who Shot Liberty Valance, (1962), 8.0
+247., Le notti di Cabiria, (1957), 8.0
+248., Kumonosu-jo, (1957), 8.0
+249., The Man Who Shot Liberty Valance, (1962), 8.0
+250., Dom za vesanje, (1988), 8.0
